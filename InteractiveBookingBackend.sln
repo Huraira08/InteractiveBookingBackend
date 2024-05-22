@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBookingBackend.Web", "InteractiveBookingBackend\InteractiveBookingBackend.Web.csproj", "{2F40EAE7-65A6-4E95-96AD-D9ED09EE752A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractiveBookingBackend.Web", "InteractiveBookingBackend\InteractiveBookingBackend.Web.csproj", "{2F40EAE7-65A6-4E95-96AD-D9ED09EE752A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBookingBackend.Business", "InteractiveBookingBackend.Business\InteractiveBookingBackend.Business.csproj", "{C46DC45E-4A8C-42AC-999B-EEDD7037DCD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractiveBookingBackend.Data", "InteractiveBookingBackend.Data\InteractiveBookingBackend.Data.csproj", "{09582702-C34A-4999-ACCB-BE28B79D3741}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBookingBackend.Data", "InteractiveBookingBackend.Data\InteractiveBookingBackend.Data.csproj", "{09582702-C34A-4999-ACCB-BE28B79D3741}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractiveBookingBackend.Model", "InteractiveBookingBackend.Model\InteractiveBookingBackend.Model.csproj", "{836C8553-672E-4E46-9A4F-37B523506805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteractiveBookingBackend.Model", "InteractiveBookingBackend.Model\InteractiveBookingBackend.Model.csproj", "{836C8553-672E-4E46-9A4F-37B523506805}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +19,6 @@ Global
 		{2F40EAE7-65A6-4E95-96AD-D9ED09EE752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F40EAE7-65A6-4E95-96AD-D9ED09EE752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F40EAE7-65A6-4E95-96AD-D9ED09EE752A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C46DC45E-4A8C-42AC-999B-EEDD7037DCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C46DC45E-4A8C-42AC-999B-EEDD7037DCD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C46DC45E-4A8C-42AC-999B-EEDD7037DCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C46DC45E-4A8C-42AC-999B-EEDD7037DCD9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{09582702-C34A-4999-ACCB-BE28B79D3741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09582702-C34A-4999-ACCB-BE28B79D3741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09582702-C34A-4999-ACCB-BE28B79D3741}.Release|Any CPU.ActiveCfg = Release|Any CPU
