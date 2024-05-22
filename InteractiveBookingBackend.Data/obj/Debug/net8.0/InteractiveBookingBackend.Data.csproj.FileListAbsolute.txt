@@ -15,3 +15,4 @@ E:\Work\Stallions Technologies work\Assignments\Interactive Booking\InteractiveB
 E:\Work\Stallions Technologies work\Assignments\Interactive Booking\InteractiveBookingBackend\InteractiveBookingBackend.Data\obj\Debug\net8.0\InteractiveBookingBackend.Data.pdb
 E:\Work\Stallions Technologies work\Assignments\Interactive Booking\InteractiveBookingBackend\InteractiveBookingBackend.Data\obj\Debug\net8.0\InteractiveBookingBackend.Data.genruntimeconfig.cache
 E:\Work\Stallions Technologies work\Assignments\Interactive Booking\InteractiveBookingBackend\InteractiveBookingBackend.Data\obj\Debug\net8.0\ref\InteractiveBookingBackend.Data.dll
+E:\Work\Stallions Technologies work\Assignments\Interactive Booking\InteractiveBookingBackend\InteractiveBookingBackend.Data\obj\Debug\net8.0\InteractiveBookingBackend.Data.sourcelink.json

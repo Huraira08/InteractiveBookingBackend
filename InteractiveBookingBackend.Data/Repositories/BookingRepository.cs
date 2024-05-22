@@ -36,6 +36,7 @@ namespace InteractiveBookingBackend.Data.Repositories
                 .Where(b => (
                 (b.StartDate.Date >= startDate.Date && b.StartDate.Date <= endDate.Date)
                 || (b.EndDate.Date >= startDate.Date && b.EndDate.Date <= endDate.Date)
+                || (b.StartDate.Date <= startDate.Date && b.EndDate.Date >= endDate.Date)
                 ) // end of lambda expression
                 ).ToListAsync();
             return bookings;

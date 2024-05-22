@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InteractiveBookingBackend.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1b6df9390860506f1383fa8a5cb6da1b8ee4c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+542817247597dc713875a78eee29163e2d6cb16c")]
 [assembly: System.Reflection.AssemblyProductAttribute("InteractiveBookingBackend.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InteractiveBookingBackend.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
